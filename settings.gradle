@@ -1,2 +1,2 @@
-include ':app'
+include ':app', ':retroroom'
 rootProject.name='RetroRoom Example'
